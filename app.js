@@ -42,7 +42,7 @@ let track_list = [
   },
   {
     image: "img/rasta.png",
-    path: "songs/Hearts Of Men.mp3",
+    path: "songs/HEARTS OF MEN.mp3",
     name: "Hearts Of Men",
     artist: "Imperial Eclipse",
   },
@@ -82,7 +82,7 @@ let track_list = [
     path: "songs/TDB.wav",
     name: "Tear Down Babylon",
     artist: "Jah Rik",
-  },
+  }
   
 ];
 
