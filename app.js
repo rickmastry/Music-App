@@ -42,7 +42,7 @@ let track_list = [
   },
   {
     image: "img/rasta.png",
-    path: "songs/HEARTS OF MEN.mp3",
+    path: "songs/HEARTS OF MEN Instrumental.mp3",
     name: "Hearts Of Men",
     artist: "Imperial Eclipse",
   },
