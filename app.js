@@ -77,6 +77,12 @@ let track_list = [
     name: "ForIver More",
     artist: "Jah Rik",
   },
+  {
+    image: "img/mmblacksquare.png",
+    path: "songs/TDB.wav",
+    name: "Tear Down Babylon",
+    artist: "Jah Rik",
+  },
   
 ];
 
